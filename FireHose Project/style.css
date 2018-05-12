@@ -1,0 +1,43 @@
+html { 
+  background: url(images/p5.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+			color:white;
+			font-family: 'Pangolin', cursive;
+}
+
+h1	{
+	font-size:50px;
+	margin-bottom: 0;
+}
+h2	{
+	font-size:22px;
+	margin-top: 0;
+}
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid ;
+	margin-top: 40px;
+}
+.about{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+}
+.bio {
+	font-size: 15px;
+}
+.grey{
+	height: 3px;
+	width: 50px;
+	background-color: #919191;
+	border: none;
+}
